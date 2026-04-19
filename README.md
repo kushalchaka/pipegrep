@@ -1,1 +1,1 @@
-# pipegrep
+# pipegrep implementation
